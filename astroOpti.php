@@ -143,7 +143,7 @@ switch ($mois) {
         }
         break;
     default:
-        echo("EZIFNINN");
+        echo("I don't know");
         break;
 }
 ?>
