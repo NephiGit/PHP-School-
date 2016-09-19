@@ -1,6 +1,6 @@
 <?php 
 
-$myString = "web page editors now use Lorem Ipsum";
+$myString = "Lorem ipsum lorem lpsum lorem lorem ipsum";
 $nbrSpace = 0;
 
 
